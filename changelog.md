@@ -1,5 +1,14 @@
 ## Changelog
 
+### 0.4.1 Hotfix
+- **Removed**
+  - Biomes O' Plenty Boat with Chest recipes
+    - Items disappearing from the BoP boat chests
+- **Downgraded**
+  - connectivity-1.21-6.0.jar -> connectivity-1.21-5.8.jar
+    - Suspect this to be the cause of users remaining connected when offline
+- **Mod updates**
+  - allthecompressed-1.21.1-4.0.3.jar
 ### 0.4.0
 - **Added**
   - MOD: Notes (client-side only)
