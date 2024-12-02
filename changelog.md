@@ -1,5 +1,18 @@
 ## Changelog
 
+### 0.5.0
+- **Added**
+  - Custom recipes
+    - Decompress blocks into the original item (e.g., quartz, amethyst, clay, glowstone, honeycomb, string/wool)
+    - Smelting raw ore blocks into blocks of ore (more convenient and less fuel-efficient)
+    - Smelting rotten flesh into jerky
+    - Crafting leather from 9x jerky
+  - MOD: Better chunk loading
+  - MOD: Better Ping Display (client-side only)
+  - MOD: Entity Culling (client-side only)
+- **Mod updates**
+  - clientsort-neoforge-1.1.1+1.21.jar
+  - connectivity-1.21-6.1.jar
 ### 0.4.1 Hotfix
 - **Removed**
   - Biomes O' Plenty Boat with Chest recipes
