@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Regiment Lite Adventures",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "author": "",
   "files": [
     {
@@ -22,6 +22,11 @@
     {
       "projectID": 371813,
       "fileID": 5888957,
+      "required": true
+    },
+    {
+      "projectID": 968456,
+      "fileID": 5770028,
       "required": true
     },
     {
@@ -80,8 +85,8 @@
       "required": true
     },
     {
-      "projectID": 361276,
-      "fileID": 5832064,
+      "projectID": 602171,
+      "fileID": 5897404,
       "required": true
     },
     {
@@ -110,8 +115,18 @@
       "required": true
     },
     {
+      "projectID": 983390,
+      "fileID": 5694489,
+      "required": true
+    },
+    {
       "projectID": 254268,
       "fileID": 5827075,
+      "required": true
+    },
+    {
+      "projectID": 361276,
+      "fileID": 5893109,
       "required": true
     },
     {
@@ -175,11 +190,6 @@
       "required": true
     },
     {
-      "projectID": 404465,
-      "fileID": 5882070,
-      "required": true
-    },
-    {
       "projectID": 470193,
       "fileID": 5728632,
       "required": true
@@ -195,8 +205,18 @@
       "required": true
     },
     {
+      "projectID": 404465,
+      "fileID": 5893689,
+      "required": true
+    },
+    {
       "projectID": 454372,
       "fileID": 5713682,
+      "required": true
+    },
+    {
+      "projectID": 1049891,
+      "fileID": 5873519,
       "required": true
     },
     {
@@ -302,6 +322,11 @@
     {
       "projectID": 248787,
       "fileID": 5586600,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 5729127,
       "required": true
     },
     {
