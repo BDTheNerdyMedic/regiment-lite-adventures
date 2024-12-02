@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Regiment Lite Adventures",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "author": "",
   "files": [
     {
@@ -36,7 +36,7 @@
     },
     {
       "projectID": 1015100,
-      "fileID": 5812102,
+      "fileID": 5924470,
       "required": true
     },
     {
@@ -82,6 +82,11 @@
     {
       "projectID": 220318,
       "fileID": 5855568,
+      "required": true
+    },
+    {
+      "projectID": 533942,
+      "fileID": 5786591,
       "required": true
     },
     {
@@ -191,7 +196,7 @@
     },
     {
       "projectID": 470193,
-      "fileID": 5728632,
+      "fileID": 5913395,
       "required": true
     },
     {
@@ -210,18 +215,28 @@
       "required": true
     },
     {
+      "projectID": 256087,
+      "fileID": 5696107,
+      "required": true
+    },
+    {
+      "projectID": 958291,
+      "fileID": 5929168,
+      "required": true
+    },
+    {
       "projectID": 454372,
       "fileID": 5713682,
       "required": true
     },
     {
-      "projectID": 1049891,
-      "fileID": 5873519,
+      "projectID": 238222,
+      "fileID": 5846880,
       "required": true
     },
     {
-      "projectID": 238222,
-      "fileID": 5846880,
+      "projectID": 1049891,
+      "fileID": 5873519,
       "required": true
     },
     {
@@ -280,13 +295,18 @@
       "required": true
     },
     {
+      "projectID": 288885,
+      "fileID": 5670423,
+      "required": true
+    },
+    {
       "projectID": 237749,
       "fileID": 5622966,
       "required": true
     },
     {
-      "projectID": 288885,
-      "fileID": 5670423,
+      "projectID": 514045,
+      "fileID": 5778507,
       "required": true
     },
     {
@@ -300,13 +320,13 @@
       "required": true
     },
     {
-      "projectID": 858542,
-      "fileID": 5831692,
+      "projectID": 233019,
+      "fileID": 5426792,
       "required": true
     },
     {
-      "projectID": 233019,
-      "fileID": 5426792,
+      "projectID": 858542,
+      "fileID": 5831692,
       "required": true
     },
     {
@@ -346,12 +366,17 @@
     },
     {
       "projectID": 1015112,
-      "fileID": 5812214,
+      "fileID": 5924477,
       "required": true
     },
     {
       "projectID": 238551,
       "fileID": 5794085,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 5834693,
       "required": true
     }
   ],

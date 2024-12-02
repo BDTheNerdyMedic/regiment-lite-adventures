@@ -1,5 +1,16 @@
 ## Changelog
 
+### 0.4.0
+- **Added**
+  - MOD: Notes (client-side only)
+  - MOD: Bridging Mod (client-side only)
+  - MOD: YetAnotherConfigLib (client-side only)
+  - MOD: AllTheCompressed
+  - MOD: Crate Delight
+- **Mod updates**
+  - connectivity-1.21-6.0.jar
+  - YungsApi-1.21.1-NeoForge-5.1.3.jar
+  - YungsBetterDungeons-1.21.1-NeoForge-5.1.3.jar
 ### 0.3.0
 - **Added**
   - Custom recipes
