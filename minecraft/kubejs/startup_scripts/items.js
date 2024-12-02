@@ -6,5 +6,10 @@ StartupEvents.registry('item', event => {
       food
         .nutrition(5)
         .saturation(0.6)
-    })
-})
+    });
+
+  event.create('bundle_of_sticks')
+    .displayName('Bundle of Sticks')
+    .texture('kubejs:item/bundle_of_sticks')
+    .burnTime(900); // Burn time in ticks (9 sticks × 100 ticks each)
+});

@@ -1,5 +1,15 @@
 ## Changelog
 
+### 0.5.1
+- **Added**
+  - Custom recipes
+    - Rotten Flesh Block
+    - Bundle of Sticks
+    - Bulk torch crafting from bundle of sticks and block of coal
+- **Changed**
+  - Adjusted smelting time of raw ore blocks (now consistent with 9x raw ore)
+- **Mod updates**
+  - YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
 ### 0.5.0
 - **Added**
   - Custom recipes

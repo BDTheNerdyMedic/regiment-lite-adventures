@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Regiment Lite Adventures",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "author": "",
   "files": [
     {
@@ -80,13 +80,13 @@
       "required": true
     },
     {
-      "projectID": 448233,
-      "fileID": 5866467,
+      "projectID": 1015096,
+      "fileID": 5812193,
       "required": true
     },
     {
-      "projectID": 1015096,
-      "fileID": 5812193,
+      "projectID": 448233,
+      "fileID": 5866467,
       "required": true
     },
     {
@@ -381,7 +381,7 @@
     },
     {
       "projectID": 1015112,
-      "fileID": 5924477,
+      "fileID": 5954804,
       "required": true
     },
     {
