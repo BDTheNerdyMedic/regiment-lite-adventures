@@ -27,6 +27,7 @@ ServerEvents.recipes(event => {
 
     event.shapeless('minecraft:leather', Array(9).fill('kubejs:jerky'));
     event.shapeless('kubejs:block_rotten_flesh', Array(9).fill('minecraft:rotten_flesh'));
+    event.shapeless('kubejs:block_sugar_cane', Array(9).fill('minecraft:sugar_cane'));
     event.shapeless('kubejs:bundle_of_sticks', Array(9).fill('minecraft:stick'));
 
     // Shapeless decompression recipes
@@ -38,6 +39,7 @@ ServerEvents.recipes(event => {
         { block: '#minecraft:wool', item: 'minecraft:string', amount: 4 },
         { block: 'minecraft:honeycomb_block', item: 'minecraft:honeycomb', amount: 4 },
         { block: 'kubejs:block_rotten_flesh', item: 'minecraft:rotten_flesh', amount: 9 },
+        { block: 'kubejs:block_sugar_cane', item: 'minecraft:sugar_cane', amount: 9 },
         { block: 'kubejs:bundle_of_sticks', item: 'minecraft:stick', amount: 9 }
     ];
 
