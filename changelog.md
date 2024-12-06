@@ -1,5 +1,11 @@
 ## Changelog
 
+### 0.5.2
+- **Added**
+  - New block with custom recipes (Block of Sugar Cane)
+- **Mod updates**
+  - ftb-chunks-neoforge-2101.1.5.jar
+  - allthecompressed-1.21.1-4.1.0.jar
 ### 0.5.1
 - **Added**
   - Custom recipes
