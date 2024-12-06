@@ -11,12 +11,12 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Regiment Lite Adventures",
-  "version": "0.5.1",
-  "author": "",
+  "version": "0.5.2",
+  "author": "BDTheNerdyMedic",
   "files": [
     {
       "projectID": 314906,
-      "fileID": 5882245,
+      "fileID": 5968500,
       "required": true
     },
     {
@@ -321,7 +321,7 @@
     },
     {
       "projectID": 514045,
-      "fileID": 5931170,
+      "fileID": 5964271,
       "required": true
     },
     {
