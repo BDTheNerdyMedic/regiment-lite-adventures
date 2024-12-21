@@ -1,5 +1,19 @@
 ## Changelog
 
+### 0.6.0
+- **Added**
+  - GeckoLib
+  - Season's Greetings
+  - Tom's Trading Network
+- **Mod updates**
+  - modernfix-neoforge-5.19.6+mc1.21.1.jar
+  - simple_weather-1.0.13.jar
+  - bookshelf-neoforge-1.21.1-21.1.26.jar
+  - ftb-essentials-neoforge-2101.1.1.jar
+  - crashutilities-9.0.4.jar
+  - harvest-with-ease-neoforge-1.21-9.4.0.jar
+  - Jade-1.21.1-NeoForge-15.9.1.jar
+  - betterchunkloading-1.21-5.2.jar
 ### 0.5.2
 - **Added**
   - New block with custom recipes (Block of Sugar Cane)
