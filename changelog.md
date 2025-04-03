@@ -1,5 +1,10 @@
 ## Changelog
 
+### 0.6.1
+- **Mod updates**
+  - 42 mod updates
+- **Changed**
+  - NeoForge updated to v21.1.143
 ### 0.6.0
 - **Added**
   - GeckoLib
