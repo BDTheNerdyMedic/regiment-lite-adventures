@@ -1,102 +1,121 @@
-## Changelog
+# Changelog
 
-### 0.6.1
-- **Mod updates**
-  - 42 mod updates
-- **Changed**
-  - NeoForge updated to v21.1.143
-### 0.6.0
-- **Added**
-  - GeckoLib
-  - Season's Greetings
-  - Tom's Trading Network
-- **Mod updates**
-  - modernfix-neoforge-5.19.6+mc1.21.1.jar
-  - simple_weather-1.0.13.jar
-  - bookshelf-neoforge-1.21.1-21.1.26.jar
-  - ftb-essentials-neoforge-2101.1.1.jar
-  - crashutilities-9.0.4.jar
-  - harvest-with-ease-neoforge-1.21-9.4.0.jar
-  - Jade-1.21.1-NeoForge-15.9.1.jar
-  - betterchunkloading-1.21-5.2.jar
-### 0.5.2
-- **Added**
-  - New block with custom recipes (Block of Sugar Cane)
-- **Mod updates**
-  - ftb-chunks-neoforge-2101.1.5.jar
-  - allthecompressed-1.21.1-4.1.0.jar
-### 0.5.1
-- **Added**
-  - Custom recipes
-    - Rotten Flesh Block
-    - Bundle of Sticks
-    - Bulk torch crafting from bundle of sticks and block of coal
-- **Changed**
-  - Adjusted smelting time of raw ore blocks (now consistent with 9x raw ore)
-- **Mod updates**
-  - YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar
-### 0.5.0
-- **Added**
-  - Custom recipes
-    - Decompress blocks into the original item (e.g., quartz, amethyst, clay, glowstone, honeycomb, string/wool)
-    - Smelting raw ore blocks into blocks of ore (more convenient and less fuel-efficient)
-    - Smelting rotten flesh into jerky
-    - Crafting leather from 9x jerky
-  - MOD: Better chunk loading
-  - MOD: Better Ping Display (client-side only)
-  - MOD: Entity Culling (client-side only)
-- **Mod updates**
-  - clientsort-neoforge-1.1.1+1.21.jar
-  - connectivity-1.21-6.1.jar
-### 0.4.1 Hotfix
-- **Removed**
-  - Biomes O' Plenty Boat with Chest recipes
-    - Items disappearing from the BoP boat chests
-- **Downgraded**
-  - connectivity-1.21-6.0.jar -> connectivity-1.21-5.8.jar
-    - Suspect this to be the cause of users remaining connected when offline
-- **Mod updates**
-  - allthecompressed-1.21.1-4.0.3.jar
-### 0.4.0
-- **Added**
-  - MOD: Notes (client-side only)
-  - MOD: Bridging Mod (client-side only)
-  - MOD: YetAnotherConfigLib (client-side only)
-  - MOD: AllTheCompressed
-  - MOD: Crate Delight
-- **Mod updates**
-  - connectivity-1.21-6.0.jar
-  - YungsApi-1.21.1-NeoForge-5.1.3.jar
-  - YungsBetterDungeons-1.21.1-NeoForge-5.1.3.jar
-### 0.3.0
-- **Added**
-  - Custom recipes
-    - Crafting sticks using logs
-    - Crafting chests using logs
-  - MOD: Client Sort
-  - MOD: Harvest with ease
-  - MOD: Simple Weather
-  - MOD: Cloth Config API
-  - MOD: Cobweb Crystal Nest API
-- **Mod updates**
-  - lootr-neoforge-1.21-1.10.34.86.jar
-  - ftb-library-neoforge-2101.1.6.jar
-### 0.2.0
-- **Added**
-  - MOD: FTB Ultimine
-  - MOD: FTB Ultimine Addition
-  - MOD: CoolCatLib
-  - MOD: AppleSkin
-  - MOD: Controlling
-  - MOD: Searchables
-  - MOD: Clumps
-  - MOD: Rechiseled
-  - MOD: Fusion (Connected Textures)
-  - MOD: SuperMartijn642's Core Lib
-  - MOD: SuperMartijn642's Config Lib
-- **Mod updates**
-  - ftb-ranks-neoforge-2101.1.1
-  - NoChatReports-NEOFORGE-1.21.1-v2.9.1
-  - crashutilities-9.0.3
-### 0.1.0
-  - Initial release
+All notable changes to this modpack will be documented in this file.
+
+## [v0.6.1] - 2025-04-03
+### Changed
+- Updated NeoForge to **21.1.143**
+- Updated **42 mods** for stability and performance
+
+## [v0.6.0] - 2024-12-22
+### Added
+- **GeckoLib**
+- **Season's Greetings**
+- **Tom's Trading Network**
+
+### Updated
+- ModernFix
+- Simple Weather
+- Bookshelf
+- FTB Essentials
+- Crash Utilities
+- Harvest with Ease
+- Jade
+- Better Chunk Loading
+
+## [v0.5.2] - 2024-12-06
+### Added
+- Custom block: **Block of Sugar Cane** (with recipes)
+
+### Updated
+- FTB Chunks
+- All the Compressed
+
+## [v0.5.1] - 2024-12-02
+### Added
+- Custom recipes:
+  - Rotten Flesh Block
+  - Bundle of Sticks
+  - Bulk torch crafting (from Bundle of Sticks + Block of Coal)
+
+### Changed
+- Adjusted raw ore block smelting time (consistent with 9x raw ore)
+
+### Updated
+- YUNG's Better Dungeons
+
+## [v0.5.0] - 2024-12-02
+### Added
+- Custom recipes:
+  - Decompress blocks (quartz, amethyst, clay, glowstone, honeycomb, string/wool)
+  - Smelt raw ore blocks into ore blocks
+  - Smelt rotten flesh into jerky
+  - Craft leather from 9x jerky
+- **Better Chunk Loading**
+- **Better Ping Display** (client-side)
+- **Entity Culling** (client-side)
+
+### Updated
+- ClientSort
+- Connectivity
+
+## [v0.4.1] - Hotfix - 2024-12-02
+### Removed
+- Biomes O' Plenty Boat with Chest recipes (fixed item disappearance bug)
+
+### Changed
+- Downgraded Connectivity (`6.0` → `5.8`; fixed offline connection issues)
+
+### Updated
+- All the Compressed
+
+## [v0.4.0] - 2024-12-02
+### Added
+- **Notes** (client-side)
+- **Bridging Mod** (client-side)
+- **YetAnotherConfigLib** (client-side)
+- **All the Compressed**
+- **Crate Delight**
+
+### Updated
+- Connectivity
+- YUNG's API
+- YUNG's Better Dungeons
+
+## [v0.3.0] - 2024-12-02
+### Added
+- Custom recipes:
+  - Sticks from logs
+  - Chests from logs
+- **Client Sort**
+- **Harvest with Ease**
+- **Simple Weather**
+- **Cloth Config API**
+- **Cobweb Crystal Nest API**
+
+### Updated
+- Lootr
+- FTB Library
+
+## [v0.2.0] - 2024-12-02
+### Added
+- **FTB Ultimine**
+- **FTB Ultimine Addition**
+- **CoolCatLib**
+- **AppleSkin**
+- **Controlling**
+- **Searchables**
+- **Clumps**
+- **Rechiseled**
+- **Fusion** (Connected Textures)
+- **SuperMartijn642's Core Lib**
+- **SuperMartijn642's Config Lib**
+
+### Updated
+- FTB Ranks
+- No Chat Reports
+- Crash Utilities
+
+## [v0.1.0] - 2024-12-02
+### Added
+- Initial release
